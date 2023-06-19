@@ -176,9 +176,18 @@ export const Footer10DataSource = {
               children: (
                 <span>
                   <span>
-                    <p>
-                      A newly established one-stop wealth management specialist.
-                    </p>
+                    <span>
+                      <span>
+                        <p>
+                          A newly established one-stop wealth management
+                          specialist.
+                        </p>
+                        <p>
+                          <br />
+                        </p>
+                        <p>contact@bilafi.ltd</p>
+                      </span>
+                    </span>
                   </span>
                 </span>
               ),
